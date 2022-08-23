@@ -1,5 +1,6 @@
 body{
   font-family: 'Zen Kaku Gothic Antique', sans-serif;
+  box-sizing: border-box;
  }
  .dim{
     opacity: 0.1555;
@@ -38,4 +39,8 @@ body{
     height: 5.5em;
   }
 
+  #main {
+    justify-content: center;
+    text-align: center;
+  }
   
